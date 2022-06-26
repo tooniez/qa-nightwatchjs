@@ -1,0 +1,27 @@
+{
+    "name": "nightwatchjs",
+    "version": "0.0.1",
+    "description": "nightwatcgjs test framework",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx nightwatch ./tests/specs --headless",
+        "test:headed": "npx nightwatch ./tests/specs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tooniez/nightwatchjs.git"
+    },
+    "author": "tooniez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tooniez/nightwatchjs/issues"
+    },
+    "homepage": "https://github.com/tooniez/nightwatchjs#readme",
+    "dependencies": {
+        "nightwatch": "^2.2.2"
+    },
+    "devDependencies": {
+        "geckodriver": "^3.0.1",
+        "npx": "^10.2.2"
+    }
+}
