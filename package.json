@@ -18,7 +18,7 @@
     },
     "homepage": "https://github.com/tooniez/nightwatchjs#readme",
     "dependencies": {
-        "nightwatch": "^3.9.0"
+        "nightwatch": "^3.14.0"
     },
     "devDependencies": {
         "geckodriver": "^3.0.1",
