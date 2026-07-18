@@ -21,7 +21,7 @@
         "nightwatch": "^3.16.0"
     },
     "devDependencies": {
-        "geckodriver": "^3.0.1",
+        "geckodriver": "^6.1.0",
         "npx": "^10.2.2"
     }
 }
